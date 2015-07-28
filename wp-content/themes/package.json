@@ -1,0 +1,16 @@
+{
+    "name" : "SampleGrunt",
+    "version" : "1.0.0",
+    "author" : "Jakub Kadeřávek",
+    "private" : true,
+
+    "devDependencies" : {
+        "grunt":					"*",
+        "grunt-contrib-watch":		"*",
+        "grunt-contrib-less":		"*",
+        "grunt-contrib-jshint":		"*",
+        "grunt-contrib-uglify":     "*",
+        "grunt-contrib-concat":		"*",
+        "grunt-browser-sync":       "*"
+    }
+}
